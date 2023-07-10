@@ -33,37 +33,26 @@ https://hyeinisfree.tistory.com/22
     <tbody>
         <tr>
             <th>⚡Main⚡</th>
-            <th colspan="5" style="text-align:center;">Skills</th>
+            <th colspan="3" style="text-align:center;">Skills</th>
         </tr>
         <tr>
-            <td rowspan="2">Language</td>
+            <td rowspan="1">Language</td>
             <td rowspan="1">Programming</td>
             <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></td>
             <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-            <td rowspan="1">Markup</td>
-            <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/></td>
-            <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/></td>
-            <td align="center"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/></td>
-            <td></td>
-        <tr>
         </tr>
     <tr>
             <td rowspan="2">Analysis</td>
             <td rowspan="1">Data</td>
             <td align="center"><img src="https://img.shields.io/badge/Numpy-013243?style=plastic&logo=Numpy"></td>
             <td align="center"><img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=Pandas&logoColor=white"/></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td rowspan="1">Visualization</td>
             <td align="center"><img src="https://img.shields.io/badge/Matplotlib-137CBD?style=plastic"></td>
             <td align="center"><img src="https://img.shields.io/badge/Seaborn-24A47F?style=plastic"></td>
-            <td align="center"><img src="https://img.shields.io/badge/Looker-4285F4?style=plastic&logo=Looker&logoColor=white"/></td>
-            <td align="center"><img src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=Tableau&logoColor=white"/></td>
+            <!-- <td align="center"><img src="https://img.shields.io/badge/Looker-4285F4?style=plastic&logo=Looker&logoColor=white"/></td>
+            <td align="center"><img src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=Tableau&logoColor=white"/></td> -->
         </tr>
     </tbody>
 </table>
@@ -82,6 +71,13 @@ https://hyeinisfree.tistory.com/22
             <th colspan="5" style="text-align:center;">Skills</th>
         </tr>
         <tr>
+            <td rowspan="1">Markup</td>
+            <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/></td>
+            <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/></td>
+            <td align="center"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/></td>
+            <td></td>
+        </tr>
+        <tr>
             <td rowspan="1">ML/DL</td>
             <td align="center"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white"/></td>
             <td align="center"><img src="https://img.shields.io/badge/XGBoost-7f000b?style=plastic"/></td>
@@ -89,23 +85,17 @@ https://hyeinisfree.tistory.com/22
             <td align="center"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white"/></td>
         </tr>        
         <tr>
-            <td rowspan="3">Data Engineering</td>
+            <td rowspan="2">Data Engineering</td>
             <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/></td>
             <td align="center"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/></td>
-            <td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/></td>
-            <td></td>
-        </tr>
-        <tr>
             <td align="center"><img src="https://img.shields.io/badge/BeautifulSoup-8b87c3?style=plastic"/></td>
             <td align="center"><img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white"/></td>
-            <td align="center"><img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=SQLite&logoColor=white"/></td>
-            <td></td>
         </tr>
         <tr>
+            <td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/></td>
+            <td align="center"><img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=SQLite&logoColor=white"/></td>
             <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></td>
             <td align="center"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=PostgreSQL&logoColor=white"/></td>
-            <td></td>
-            <td></td>
         </tr>
         <tr>
             <td rowspan="1">Web Framework</td>
