@@ -14,16 +14,17 @@ https://hyeinisfree.tistory.com/22
 
 <h1> Introduce Myself 🚀</h1>
 
-데이터 직군 커리어를 꿈꾸며...
+### 😄 Hello~!!
 
-### Project
-- 
--
--
+### 🎁 Project
+------------------------------
+ - 인도네시아 이커머스 플랫폼 개선 프로젝트 📎[링크]()
+ - 동남아 여행 경비 예측 서비스 프로젝트 📎[링크]()
+ - 다음 분기 출시 게임 기획 프로젝트 📎[링크]()
 
 
-### Skills
-
+### 🔧 Skills
+------------------------------
 <div align="center">
   
   
@@ -77,13 +78,13 @@ https://hyeinisfree.tistory.com/22
             <td align="center"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/></td>
             <td></td>
         </tr>
-        <tr>
+<!--         <tr>
             <td rowspan="1">ML/DL</td>
             <td align="center"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=plastic&logo=Tensorflow&logoColor=white"/></td>
             <td align="center"><img src="https://img.shields.io/badge/XGBoost-7f000b?style=plastic"/></td>
             <td align="center"><img src="https://img.shields.io/badge/Regression-2496ED?style=plastic"/></td>
             <td align="center"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white"/></td>
-        </tr>        
+        </tr>         -->
         <tr>
             <td rowspan="2">Data Engineering</td>
             <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/></td>
